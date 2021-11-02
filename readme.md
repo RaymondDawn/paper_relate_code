@@ -5,3 +5,15 @@
 
 
 [Efficient Decision-Based Black-Box Adversarial Attacks on Face Recognition](https://github.com/sgmath12/efficient-decision-based-black-box-adversarial-attacks-on-face-recognition)
+
+
+
+[Practical Black-Box Attacks against Machine](https://github.com/inhopark94/ihpark)
+
+# membership inference
+
+[Label-Only Membership Inference Attacks](https://github.com/cchoquette/membership-inference)
+
+
+
+其他
