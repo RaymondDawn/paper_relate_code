@@ -10,6 +10,11 @@
 
 [Practical Black-Box Attacks against Machine](https://github.com/inhopark94/ihpark)
 
+
+[ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD](https://github.com/cleverhans-lab/cleverhans)
+
+
+[Explaining and Harnessing Adversarial Examples](https://github.com/cleverhans-lab/cleverhans)
 # membership inference
 
 [Label-Only Membership Inference Attacks](https://github.com/cchoquette/membership-inference)
